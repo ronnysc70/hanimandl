@@ -1,5 +1,5 @@
 # hanimandl
-funktionierende Version mit heltec S3-Chip
+funktionierende Version mit heltec WiFi V3 Board (S3-Chip)
 <ul>
   <li>benutzte Libraries:</li>
 <ul>
